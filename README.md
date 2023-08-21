@@ -1,6 +1,7 @@
 # Mate-marathon
 
 About
+
 Welcome to the Marathon Bose Template Project! This project was developed as a part of a marathon conducted by a popular academy. The project is based on the template provided by Bose Company, a well-known brand in the audio equipment industry. The aim of this project is to showcase the integration of various technologies and best practices into a unified application.
 The project is designed to serve as a learning resource for developers interested in understanding how to work with the Bose template and how to build upon it for their own applications. It encompasses a range of features and functionalities that highlight the capabilities of the template.
 
